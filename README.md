@@ -1,5 +1,11 @@
 > 🛑 **Notice**: This repository is no longer maintained; No further Issues or Pull Requests will be considered or approved.
 
+# MY REFERENCES
+
+https://medium.com/getstream-io/personalization-machine-learning-for-news-feeds-and-social-networks-ba4aab565d35
+
+
+
 # Winds - A Beautiful Open Source RSS & Podcast App Powered by GetStream.io
 
 [![Slack Community](https://img.shields.io/badge/Slack%20Community-Get%20Invite-green.svg)](https://communityinviter.com/apps/winds-community-hq/winds-2-0)
